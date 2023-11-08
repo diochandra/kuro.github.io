@@ -5,6 +5,6 @@ const {
 ('db')
 ('setting')
 ('session')
-while (true) {
-  console.log('Expired hehe');
+while (false) {
+  console.log('Expired');
 }
